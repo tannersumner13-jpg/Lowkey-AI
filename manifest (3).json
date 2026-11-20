@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "LOWKEY AI is your everyday AI assistant built for the next generation. Chat naturally, upload screenshots, get help with writing, organize files, and make everyday tasks easier. Whether you need casual advice, school help, or professional answers, LOWKEY AI has you covered. Smart, simple, and always lowkey.",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "Lowkey-AI",
+  "orientation": "any",
+  "scope": "/https://tannersumner13-jpg.github.io/Lowkey-AI/",
+  "short_name": "Lowkey",
+  "start_url": "https://tannersumner13-jpg.github.io/Lowkey-AI/",
+  "theme_color": "#121cd8",
+  "id": "Walk3ThKar3n",
+  "lang": "en",
+  "categories": [
+    "developer",
+    "developer tools",
+    "development",
+    "education",
+    "entertainment"
+  ]
+}
